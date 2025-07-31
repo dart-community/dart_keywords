@@ -1,0 +1,16 @@
+name: dart_keywords
+description: >-
+  Information about Dart keywords by language version.
+version: 0.1.0-wip
+repository: https://github.com/dart-community/dart_keywords
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  language_version: ^0.1.0
+  meta: ^1.16.0
+
+dev_dependencies:
+  night_raven_insight: ^4.0.0
+  test: ^1.26.0
