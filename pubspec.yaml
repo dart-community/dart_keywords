@@ -1,7 +1,7 @@
 name: dart_keywords
 description: >-
   Information about Dart keywords by language version.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dart-community/dart_keywords
 
 environment:
